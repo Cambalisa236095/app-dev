@@ -1,8 +1,4 @@
 # app-dev
 Vinland Saga
-
-### Thorfinn vows to kill the man who took his father's life. But the life of a hate-filled Viking comes at a heavy cost; will Thorfinn succeed and finally kill Askeladd, or could his rage be his undoing? Only Odin himself knows the answers, and Valhalla awaits those waiting to die in battle.
-
-### Heading
-### H3
-Thorfinn vows to kill the man who took his father's life. But the life of a hate-filled Viking comes at a heavy cost; will Thorfinn succeed and finally kill Askeladd, or could his rage be his undoing? Only Odin himself knows the answers, and Valhalla awaits those waiting to die in battle.
+## H2
+Vinland Saga is a Japanese manga series written and illustrated by YUKIMURA Makoto. The series is set in a historical depiction of Europe during Viking times, and depicts the life of Thorfinn, a young warrior who joins the mercenary band of Askeladd to get revenge on his father, Thors.
